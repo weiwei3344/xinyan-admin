@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+     xml:lang="en-US"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+    <meta name="dtb:uid" content="51037e82-03ff-11dd-9fbb-0018f369440e"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta name="provider" content="www.cnepub.com"/>
+    <meta name="builder" content="epubBuilder present by www.cnepub.com"/>
+    <meta name="right" content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。"/>
+  </head>
+<docTitle><text> 呐喊 </text></docTitle>
+<docAuthor><text> 鲁迅 </text></docAuthor>
+<navMap>
+<navPoint id="coverpage" playOrder="0">
+<navLabel><text>封面</text></navLabel>
+<content src="coverpage.html"/>
+</navPoint>
+<navPoint id="chapter1" playOrder="1">
+<navLabel><text>《呐喊》自序</text></navLabel>
+<content src="chapter1.html"/>
+</navPoint>
+<navPoint id="chapter2" playOrder="2">
+<navLabel><text>一件小事</text></navLabel>
+<content src="chapter2.html"/>
+</navPoint>
+<navPoint id="chapter3" playOrder="3">
+<navLabel><text>狂人日记</text></navLabel>
+<content src="chapter3.html"/>
+</navPoint>
+<navPoint id="chapter4" playOrder="4">
+<navLabel><text>鸭的喜剧</text></navLabel>
+<content src="chapter4.html"/>
+</navPoint>
+<navPoint id="chapter5" playOrder="5">
+<navLabel><text>端午节</text></navLabel>
+<content src="chapter5.html"/>
+</navPoint>
+<navPoint id="chapter6" playOrder="6">
+<navLabel><text>故乡</text></navLabel>
+<content src="chapter6.html"/>
+</navPoint>
+<navPoint id="chapter7" playOrder="7">
+<navLabel><text>孔乙己</text></navLabel>
+<content src="chapter7.html"/>
+</navPoint>
+<navPoint id="chapter8" playOrder="8">
+<navLabel><text>药</text></navLabel>
+<content src="chapter8.html"/>
+</navPoint>
+<navPoint id="chapter9" playOrder="9">
+<navLabel><text>阿Q正传</text></navLabel>
+<content src="chapter9.html"/>
+<navPoint id="chapter10" playOrder="10">
+<navLabel><text>第一章　序</text></navLabel>
+<content src="chapter10.html"/>
+</navPoint>
+<navPoint id="chapter11" playOrder="11">
+<navLabel><text>第二章　优胜记略</text></navLabel>
+<content src="chapter11.html"/>
+</navPoint>
+<navPoint id="chapter12" playOrder="12">
+<navLabel><text>第三章　续优胜记略</text></navLabel>
+<content src="chapter12.html"/>
+</navPoint>
+<navPoint id="chapter13" playOrder="13">
+<navLabel><text>第四章　恋爱的悲剧</text></navLabel>
+<content src="chapter13.html"/>
+</navPoint>
+<navPoint id="chapter14" playOrder="14">
+<navLabel><text>第五章　生计问题</text></navLabel>
+<content src="chapter14.html"/>
+</navPoint>
+<navPoint id="chapter15" playOrder="15">
+<navLabel><text>第六章　从中兴到末路</text></navLabel>
+<content src="chapter15.html"/>
+</navPoint>
+<navPoint id="chapter16" playOrder="16">
+<navLabel><text>第七章　革命</text></navLabel>
+<content src="chapter16.html"/>
+</navPoint>
+<navPoint id="chapter17" playOrder="17">
+<navLabel><text>第八章　不准革命</text></navLabel>
+<content src="chapter17.html"/>
+</navPoint>
+<navPoint id="chapter18" playOrder="18">
+<navLabel><text>第九章  大团圆</text></navLabel>
+<content src="chapter18.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter19" playOrder="19">
+<navLabel><text>兔和猫</text></navLabel>
+<content src="chapter19.html"/>
+</navPoint>
+<navPoint id="chapter20" playOrder="20">
+<navLabel><text>社戏</text></navLabel>
+<content src="chapter20.html"/>
+</navPoint>
+<navPoint id="chapter21" playOrder="21">
+<navLabel><text>风波</text></navLabel>
+<content src="chapter21.html"/>
+</navPoint>
+<navPoint id="chapter22" playOrder="22">
+<navLabel><text>头发的故事</text></navLabel>
+<content src="chapter22.html"/>
+</navPoint>
+<navPoint id="chapter23" playOrder="23">
+<navLabel><text>明天</text></navLabel>
+<content src="chapter23.html"/>
+</navPoint>
+<navPoint id="chapter24" playOrder="24">
+<navLabel><text>白光</text></navLabel>
+<content src="chapter24.html"/>
+</navPoint>
+</navMap>
+</ncx>

@@ -1,0 +1,88 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="PrimaryID">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>呐喊</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="鲁迅">鲁迅</dc:creator>
+    <dc:publisher>epub掌上书苑</dc:publisher>
+    <dc:description>《呐喊》主要讲述了：鲁迅是中国文化革命的主将，他不但是伟大的文学家，而且是伟大的思想家和伟大的革命家。鲁迅的骨头是最硬的，他没有丝毫的奴颜和媚骨，这是殖民地和半殖民地人民最可宝贵的性格。鲁迅是在文化战线上，代表全民族的大多数，向着敌人冲锋陷阵的最正确、最勇敢、最坚决、最忠诚、最热忱的空前的民族英雄。鲁迅的方向，就是中华新文化的方向。</dc:description>
+    <dc:coverage/>
+    <dc:source>http://www.cnepub.com</dc:source>
+    <dc:date>2011-05-04T16:00:00+00:00</dc:date>
+    <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+epubBuilder仅供交流使用，未经授权，不得用于商业用途。</dc:rights>
+    <dc:contributor/>
+    <dc:type>[type]</dc:type>
+    <dc:format/>
+    <dc:relation/>
+    <dc:builder>epubBuilder</dc:builder>
+    <dc:builder_version>3.1.04.30</dc:builder_version>
+    <dc:subject>都市·言情</dc:subject>
+    <dc:language>zh-CN</dc:language>
+    <dc:identifier opf:scheme="calibre">d2462e9c-6a3f-410c-838b-479341f0b265</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="呐喊"/>
+    <meta name="calibre:author_link_map" content="{&quot;鲁迅&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <!-- Content Documents -->
+    <item id="main-css" href="css/main.css" media-type="text/css"/>
+    <item id="coverpage" href="coverpage.html" media-type="application/xhtml+xml"/>
+    <item id="chapter1" href="chapter1.html" media-type="application/xhtml+xml"/>
+    <item id="chapter2" href="chapter2.html" media-type="application/xhtml+xml"/>
+    <item id="chapter3" href="chapter3.html" media-type="application/xhtml+xml"/>
+    <item id="chapter4" href="chapter4.html" media-type="application/xhtml+xml"/>
+    <item id="chapter5" href="chapter5.html" media-type="application/xhtml+xml"/>
+    <item id="chapter6" href="chapter6.html" media-type="application/xhtml+xml"/>
+    <item id="chapter7" href="chapter7.html" media-type="application/xhtml+xml"/>
+    <item id="chapter8" href="chapter8.html" media-type="application/xhtml+xml"/>
+    <item id="chapter9" href="chapter9.html" media-type="application/xhtml+xml"/>
+    <item id="chapter10" href="chapter10.html" media-type="application/xhtml+xml"/>
+    <item id="chapter11" href="chapter11.html" media-type="application/xhtml+xml"/>
+    <item id="chapter12" href="chapter12.html" media-type="application/xhtml+xml"/>
+    <item id="chapter13" href="chapter13.html" media-type="application/xhtml+xml"/>
+    <item id="chapter14" href="chapter14.html" media-type="application/xhtml+xml"/>
+    <item id="chapter15" href="chapter15.html" media-type="application/xhtml+xml"/>
+    <item id="chapter16" href="chapter16.html" media-type="application/xhtml+xml"/>
+    <item id="chapter17" href="chapter17.html" media-type="application/xhtml+xml"/>
+    <item id="chapter18" href="chapter18.html" media-type="application/xhtml+xml"/>
+    <item id="chapter19" href="chapter19.html" media-type="application/xhtml+xml"/>
+    <item id="chapter20" href="chapter20.html" media-type="application/xhtml+xml"/>
+    <item id="chapter21" href="chapter21.html" media-type="application/xhtml+xml"/>
+    <item id="chapter22" href="chapter22.html" media-type="application/xhtml+xml"/>
+    <item id="chapter23" href="chapter23.html" media-type="application/xhtml+xml"/>
+    <item id="chapter24" href="chapter24.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="fb.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="css/main.css" media-type="text/css"/>
+    <item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage" linear="yes"/>
+    <itemref idref="chapter1" linear="yes"/>
+    <itemref idref="chapter2" linear="yes"/>
+    <itemref idref="chapter3" linear="yes"/>
+    <itemref idref="chapter4" linear="yes"/>
+    <itemref idref="chapter5" linear="yes"/>
+    <itemref idref="chapter6" linear="yes"/>
+    <itemref idref="chapter7" linear="yes"/>
+    <itemref idref="chapter8" linear="yes"/>
+    <itemref idref="chapter9" linear="yes"/>
+    <itemref idref="chapter10" linear="yes"/>
+    <itemref idref="chapter11" linear="yes"/>
+    <itemref idref="chapter12" linear="yes"/>
+    <itemref idref="chapter13" linear="yes"/>
+    <itemref idref="chapter14" linear="yes"/>
+    <itemref idref="chapter15" linear="yes"/>
+    <itemref idref="chapter16" linear="yes"/>
+    <itemref idref="chapter17" linear="yes"/>
+    <itemref idref="chapter18" linear="yes"/>
+    <itemref idref="chapter19" linear="yes"/>
+    <itemref idref="chapter20" linear="yes"/>
+    <itemref idref="chapter21" linear="yes"/>
+    <itemref idref="chapter22" linear="yes"/>
+    <itemref idref="chapter23" linear="yes"/>
+    <itemref idref="chapter24" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="封面" href="coverpage.html"/>
+  </guide>
+</package>

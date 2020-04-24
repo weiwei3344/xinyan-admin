@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>鲁迅</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>5DF5E3C23670352427C0B5C161352302</string>
+		<key>cover-image-path</key>
+		<string>OPS/images/cover.jpg</string>
+		<key>package-file-hash</key>
+		<string>2E68D2FB7ED34B7D37F1DE8EF505146C</string>
+		<key>unique-id</key>
+		<integer>3344154700928994173</integer>
+	</dict>
+	<key>genre</key>
+	<string>都市·言情</string>
+	<key>itemName</key>
+	<string>呐喊</string>
+	<key>playlistName</key>
+	<string>呐喊</string>
+	<key>releaseDate</key>
+	<string>2011-05-05</string>
+</dict>
+</plist>
